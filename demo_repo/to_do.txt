@@ -12,4 +12,6 @@ practice piano
 plan party
 park car
 pitch tent
+hike
+canoe
 
